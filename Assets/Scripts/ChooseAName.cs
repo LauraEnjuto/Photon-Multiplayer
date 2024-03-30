@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class ChooseAName : MonoBehaviour
 {
+    //This is a test
     #region Singleton
     public static ChooseAName instance;
     #endregion
