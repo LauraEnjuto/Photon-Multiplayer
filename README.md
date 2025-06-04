@@ -42,6 +42,10 @@ You can download and play **Peg-Top Mayhem** on [Itch.io](https://lauraenjuto.it
 - **Photon PUN 2 (Free)**
 - **C#**
 
+## 📸 Screenshots
+
+All screenshots (`Screenshot01.png` to `Screenshot04.png`) are included in the root of this repository.
+
 ---
 
 Enjoy the whirlwind chaos of **Peg-Top Mayhem**!
