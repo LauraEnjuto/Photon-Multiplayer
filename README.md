@@ -6,8 +6,8 @@ This game was developed as part of a programming class assignment using Photon f
 
 ![Title Screen](Screenshot01.png)  
 ![Room Setup](Screenshot04.png)  
-![Gameplay 1](Screenshot03.png)  
-![Gameplay 2](Screenshot02.png)  
+![Gameplay 1](Screenshot03.jpeg)  
+![Gameplay 2](Screenshot02.jpeg)  
 
 ## 🎮 Gameplay
 
