@@ -4,10 +4,10 @@
 
 This game was developed as part of a programming class assignment using Photon for multiplayer networking. All assets used are restricted and were provided or created under class guidelines.
 
-![Title Screen](Screenshots/Screenshot01.png)
-![Room Setup](Screenshots/Screenshot04.png)
-![Gameplay 1](Screenshots/Screenshot03.png)
-![Gameplay 2](Screenshots/Screenshot02.png)
+![Title Screen](Screenshot01.png)  
+![Room Setup](Screenshot04.png)  
+![Gameplay 1](Screenshot03.png)  
+![Gameplay 2](Screenshot02.png)  
 
 ## 🎮 Gameplay
 
